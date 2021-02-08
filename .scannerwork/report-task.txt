@@ -1,0 +1,6 @@
+projectKey=Sprint2-order
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=Sprint2-order
+ceTaskId=AXeAbPE-U7GDulGqZk5G
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXeAbPE-U7GDulGqZk5G
